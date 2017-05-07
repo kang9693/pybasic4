@@ -1,0 +1,6 @@
+
+Created on 2017-05-06 in 'C:\stock\0x29 python강의\pybasic4\08일차/123/123.db' ,Used Query : CREATE TABLE 123( , )
+
+Created on 2017-05-06 in 'C:\stock\0x29 python강의\pybasic4\08일차/1/1.db' ,Used Query : CREATE TABLE 1( , )
+
+ Created on 2017-05-07 in 'C:\stock\0x29 python강의\pybasic4\08일차/test/test.db' ,Used Query : CREATE TABLE a(no 1,name )
